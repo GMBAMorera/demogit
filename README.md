@@ -1,2 +1,2 @@
-# demogit
-une démon de git
+﻿# demogit
+une démo de git
